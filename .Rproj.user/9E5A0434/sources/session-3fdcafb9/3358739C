@@ -1,25 +1,25 @@
 {
-    "id": "AABE7D5E",
-    "path": "D:/Manufacturing Quality Analytics/data_cleaning.R",
-    "project_path": "data_cleaning.R",
+    "id": "3358739C",
+    "path": "D:/Manufacturing Quality Analytics/Scripts/eda.R",
+    "project_path": "Scripts/eda.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1785430665017.0,
+    "dirty": false,
+    "created": 1785602622803.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785430799,
+    "lastKnownWriteTime": 1785602649,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785430799323,
+    "last_content_update": 1785602649555,
     "read_only": false,
     "read_only_alternatives": []
 }
