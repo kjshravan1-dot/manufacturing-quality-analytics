@@ -155,7 +155,7 @@ Manufacturing-Quality-Analytics/
 
 ## Dashboard Preview
 
-![Manufacturing Quality Dashboard](Tableau/dashboard_screenshots/Manufacturing_Quality_Dashboard.png)
+![image alt](https://github.com/kjshravan1-dot/manufacturing-quality-analytics/blob/main/Manufacturing%20Quality%20Dashboard.png)
 
 ---
 
